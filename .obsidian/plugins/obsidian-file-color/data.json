@@ -1,0 +1,123 @@
+{
+  "cascadeColors": false,
+  "colorBackground": false,
+  "palette": [
+    {
+      "id": "1qHuMVXaBJ_bmoEXp38t8",
+      "name": "Ataque",
+      "value": "#ff0000"
+    },
+    {
+      "id": "_94mZnvScd2AsnNoT5AP3",
+      "name": "Teoria",
+      "value": "#00eeff"
+    },
+    {
+      "id": "YcL4uhOSWb-7FWopySgsD",
+      "name": "Pratica",
+      "value": "#4dff00"
+    },
+    {
+      "id": "ulzAXDCQi-ZwqBzqj8tzc",
+      "name": "Tema Principal",
+      "value": "#ff00f7"
+    },
+    {
+      "id": "emkK26Q8CL5VRt7gYB-UQ",
+      "name": "Teoria/Pratica",
+      "value": "#d4ff00"
+    },
+    {
+      "id": "aRBQZtgHlcILhQ8HoLE99",
+      "name": "CURSOS",
+      "value": "#ffa200"
+    },
+    {
+      "id": "kh6o7MDMvRWrwrGLe8P7k",
+      "name": "Imagens",
+      "value": "#ffffff"
+    }
+  ],
+  "fileColors": [
+    {
+      "path": "REDES/Redes de Computadores em Segurança da Informação/DHCP.md",
+      "color": "_94mZnvScd2AsnNoT5AP3"
+    },
+    {
+      "path": "REDES/Redes de Computadores em Segurança da Informação/Sub-Redes E Mascaras.md",
+      "color": "_94mZnvScd2AsnNoT5AP3"
+    },
+    {
+      "path": "REDES/Redes de Computadores em Segurança da Informação",
+      "color": "aRBQZtgHlcILhQ8HoLE99"
+    },
+    {
+      "path": "REDES/FortiGate Firewall - Segurança de Redes do Zero ao Avançado",
+      "color": "aRBQZtgHlcILhQ8HoLE99"
+    },
+    {
+      "path": "SEC/Python Hacking - Malware",
+      "color": "aRBQZtgHlcILhQ8HoLE99"
+    },
+    {
+      "path": "SEC/Ethical Hacking e Pentest",
+      "color": "aRBQZtgHlcILhQ8HoLE99"
+    },
+    {
+      "path": "DEV/FRONT-END",
+      "color": "aRBQZtgHlcILhQ8HoLE99"
+    },
+    {
+      "path": "THM/Windows PowerShell",
+      "color": "emkK26Q8CL5VRt7gYB-UQ"
+    },
+    {
+      "path": "REDES/Redes de Computadores em Segurança da Informação/Modelo OSI e TCP-IP.md",
+      "color": "_94mZnvScd2AsnNoT5AP3"
+    },
+    {
+      "path": "THM/Windows PowerShell/Room.md",
+      "color": "_94mZnvScd2AsnNoT5AP3"
+    },
+    {
+      "path": "Z-images/modelo osi.png",
+      "color": "kh6o7MDMvRWrwrGLe8P7k"
+    },
+    {
+      "path": "Z-images",
+      "color": "kh6o7MDMvRWrwrGLe8P7k"
+    },
+    {
+      "path": "THM/Linux Shells",
+      "color": "emkK26Q8CL5VRt7gYB-UQ"
+    },
+    {
+      "path": "REDES/Redes de Computadores em Segurança da Informação/Cabo de Rede.md",
+      "color": "_94mZnvScd2AsnNoT5AP3"
+    },
+    {
+      "path": "CISCO",
+      "color": "aRBQZtgHlcILhQ8HoLE99"
+    },
+    {
+      "path": "CISCO/Gerenciamento de Ameaças Cibernéticas.md",
+      "color": "_94mZnvScd2AsnNoT5AP3"
+    },
+    {
+      "path": "BANCO DE DADOS",
+      "color": "_94mZnvScd2AsnNoT5AP3"
+    },
+    {
+      "path": "THM TEORY",
+      "color": "emkK26Q8CL5VRt7gYB-UQ"
+    },
+    {
+      "path": "THM TEORY/Cyber Security 101/Networking/Networking Concepts.md",
+      "color": "_94mZnvScd2AsnNoT5AP3"
+    },
+    {
+      "path": "THM TEORY/Cyber Security 101/Networking/Networking Core Protocols.md",
+      "color": "emkK26Q8CL5VRt7gYB-UQ"
+    }
+  ]
+}

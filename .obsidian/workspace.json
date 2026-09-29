@@ -1,0 +1,237 @@
+{
+  "main": {
+    "id": "09e832009456d2de",
+    "type": "split",
+    "children": [
+      {
+        "id": "5f1e76b01dfd3346",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "16bcf4a8e9ccd628",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Z-images/Pasted image 20260913132233.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20260913132233"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a07f4deb76c4ad76",
+    "type": "split",
+    "children": [
+      {
+        "id": "dc9f0e5450edc763",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b395c8e7ce66119e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "7132ae65729c95f5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Procurar"
+            }
+          },
+          {
+            "id": "4b14ef72baca328e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "695838f46ad8d7cf",
+    "type": "split",
+    "children": [
+      {
+        "id": "9584d809a4dd0e75",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "72b552771b6ccbf0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "REDES/Redes de Computadores em Segurança da Informação/Sub-Redes E Mascaras.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Links inversos para Sub-Redes E Mascaras"
+            }
+          },
+          {
+            "id": "bef4d96c167224e7",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "REDES/Redes de Computadores em Segurança da Informação/Sub-Redes E Mascaras.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Links de saída para Sub-Redes E Mascaras"
+            }
+          },
+          {
+            "id": "2ab96445afe83edf",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "2b279bd4637c8b2e",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Todas as propriedades"
+            }
+          },
+          {
+            "id": "f56bab656d7faa75",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "REDES/Redes de Computadores em Segurança da Informação/Sub-Redes E Mascaras.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Sumário de Sub-Redes E Mascaras"
+            }
+          },
+          {
+            "id": "f64eee33af5d48c6",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "b395c8e7ce66119e",
+  "lastOpenFiles": [
+    "Z-images/Pasted image 20260913132233.png",
+    "THM TEORY/Cyber Security 101/Networking/Networking Concepts.md",
+    "THM TEORY/Cyber Security 101/Networking/Networking Core Protocols.md",
+    "REDES/Redes de Computadores em Segurança da Informação/Modelo OSI e TCP-IP.md",
+    "THM/Windows PowerShell/Room.md",
+    "THM TEORY/Cyber Security 101/Networking",
+    "THM TEORY/Cyber Security 101",
+    "THM TEORY",
+    "THM/Sem título",
+    "THM/Linux Shells/Room.md",
+    "CISCO/Gerenciamento de Ameaças Cibernéticas.md",
+    "README.md",
+    "BANCO DE DADOS/Banco de dados.md",
+    "BANCO DE DADOS",
+    "REDES/Redes de Computadores em Segurança da Informação/Sub-Redes E Mascaras.md",
+    "REDES/Redes de Computadores em Segurança da Informação/DHCP.md",
+    "Z-images/mandamentosCEI.png",
+    "REDES/Redes de Computadores em Segurança da Informação/Cabo de Rede.md",
+    "CISCO",
+    "THM/Linux Shells",
+    "Z-images/OSI_HACK.png",
+    "Z-images/TCP-IPvsOSI.png",
+    "Pasted image 20260506132348.png",
+    "Pasted image 20260506131826.png",
+    "images/tabela_camada+protocolos.png",
+    "Z-images/tabela_camada.png",
+    "Z-images/modelo osi.png",
+    "Pasted image 20260506132323.png",
+    "Z-images",
+    "THM/Windows PowerShell",
+    "Drawing 2026-05-02 16.53.17.excalidraw.md",
+    "FIAP",
+    "Bem-vindo.md",
+    "REDES/Redes de Computadores em Segurança da Informação.md"
+  ]
+}

@@ -11,12 +11,14 @@
             "id": "16bcf4a8e9ccd628",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Z-images/Pasted image 20260913132233.png"
+                "file": "THM TEORY/Cyber Security 101/Networking/WireShark - The Basics.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20260913132233"
+              "icon": "lucide-file",
+              "title": "WireShark - The Basics"
             }
           }
         ]
@@ -197,11 +199,24 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b395c8e7ce66119e",
+  "active": "16bcf4a8e9ccd628",
   "lastOpenFiles": [
-    "Z-images/Pasted image 20260913132233.png",
-    "THM TEORY/Cyber Security 101/Networking/Networking Concepts.md",
+    "Pasted image 20260930210733.png",
+    "Pasted image 20260930210358.png",
+    "remember me.md",
     "THM TEORY/Cyber Security 101/Networking/Networking Core Protocols.md",
+    "THM TEORY/Cyber Security 101/Networking/WireShark - The Basics.md",
+    "Z-images/Pasted image 20260930201847.png",
+    "Z-images/Pasted image 20260930201800.png",
+    "Z-images/Pasted image 20260930201631.png",
+    "Z-images/Pasted image 20260930201518.png",
+    "Z-images/Pasted image 20260930201406.png",
+    "Z-images/Pasted image 20260930201306.png",
+    "Z-images/Pasted image 20260930201158.png",
+    "Z-images/Pasted image 20260930200835.png",
+    "THM TEORY/Cyber Security 101/Networking/Networking Secure Protocols.md",
+    "Z-images/Pasted image 20260929151937.png",
+    "THM TEORY/Cyber Security 101/Networking/Networking Concepts.md",
     "REDES/Redes de Computadores em Segurança da Informação/Modelo OSI e TCP-IP.md",
     "THM/Windows PowerShell/Room.md",
     "THM TEORY/Cyber Security 101/Networking",
@@ -215,18 +230,9 @@
     "BANCO DE DADOS",
     "REDES/Redes de Computadores em Segurança da Informação/Sub-Redes E Mascaras.md",
     "REDES/Redes de Computadores em Segurança da Informação/DHCP.md",
-    "Z-images/mandamentosCEI.png",
     "REDES/Redes de Computadores em Segurança da Informação/Cabo de Rede.md",
     "CISCO",
     "THM/Linux Shells",
-    "Z-images/OSI_HACK.png",
-    "Z-images/TCP-IPvsOSI.png",
-    "Pasted image 20260506132348.png",
-    "Pasted image 20260506131826.png",
-    "images/tabela_camada+protocolos.png",
-    "Z-images/tabela_camada.png",
-    "Z-images/modelo osi.png",
-    "Pasted image 20260506132323.png",
     "Z-images",
     "THM/Windows PowerShell",
     "Drawing 2026-05-02 16.53.17.excalidraw.md",

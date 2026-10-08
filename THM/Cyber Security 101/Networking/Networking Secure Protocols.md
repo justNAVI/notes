@@ -67,13 +67,12 @@ OpenSSH several benefits:
 - Connect using: sftp navi@hostname
 - SFTP commands are like Unix-like and differ from FTP commands
 
-
-
 | Protocol | Port Number | Commands                                            | Full Name                     |                                |
 | -------- | ----------- | --------------------------------------------------- | ----------------------------- | ------------------------------ |
 | SFTP     | 22          | sftp username@hostname / get filename / putfilename | SSH FIle Transfer Protocol    | Part of the SSH protocol suite |
 | FTPS     | 990         | Unix-like                                           | File Transfer Protocol Secure | Uses TLS                       |
 # VPN
+
 
 - Virtual Private Network
 - VPN is very convenient and inexpensive 

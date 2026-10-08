@@ -5,7 +5,9 @@
 - The OSI model is composed of seven layers
 - The numbering starts with the Physical layer being layer 1, while the top layer, the Application layer, is layer 7
 
- **"Please Do Not Throw Sausage Pizza Away"**
+
+==**<p style="text-align:center;"> "Please Do Not Throw Sausage Pizza Away"</p>==**
+
 
 ![[Pasted image 20260913132233.png]]
 

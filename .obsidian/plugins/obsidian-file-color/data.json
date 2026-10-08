@@ -1,21 +1,16 @@
 {
   "cascadeColors": false,
-  "colorBackground": false,
+  "colorBackground": true,
   "palette": [
-    {
-      "id": "1qHuMVXaBJ_bmoEXp38t8",
-      "name": "Ataque",
-      "value": "#ff0000"
-    },
     {
       "id": "_94mZnvScd2AsnNoT5AP3",
       "name": "Teoria",
-      "value": "#00eeff"
+      "value": "#5e57b7"
     },
     {
       "id": "YcL4uhOSWb-7FWopySgsD",
       "name": "Pratica",
-      "value": "#4dff00"
+      "value": "#ffdd00"
     },
     {
       "id": "ulzAXDCQi-ZwqBzqj8tzc",
@@ -23,19 +18,34 @@
       "value": "#ff00f7"
     },
     {
-      "id": "emkK26Q8CL5VRt7gYB-UQ",
-      "name": "Teoria/Pratica",
-      "value": "#d4ff00"
-    },
-    {
       "id": "aRBQZtgHlcILhQ8HoLE99",
       "name": "CURSOS",
-      "value": "#ffa200"
+      "value": "#00ff59"
     },
     {
       "id": "kh6o7MDMvRWrwrGLe8P7k",
       "name": "Imagens",
       "value": "#ffffff"
+    },
+    {
+      "id": "4rZV4ipmvDyFP185JizOt",
+      "name": "JINX ",
+      "value": "#0011ff"
+    },
+    {
+      "id": "ieZFt7UPglMweRRSVsff7",
+      "name": "PATHS",
+      "value": "#00a5c2"
+    },
+    {
+      "id": "JeDLFyRzD_iaBTZDSu157",
+      "name": "MODULES",
+      "value": "#ff0000"
+    },
+    {
+      "id": "8khsXX66tThaeaWZo66vx",
+      "name": "ROOMS",
+      "value": "#000000"
     }
   ],
   "fileColors": [
@@ -68,16 +78,12 @@
       "color": "aRBQZtgHlcILhQ8HoLE99"
     },
     {
-      "path": "THM/Windows PowerShell",
-      "color": "emkK26Q8CL5VRt7gYB-UQ"
-    },
-    {
       "path": "REDES/Redes de Computadores em Segurança da Informação/Modelo OSI e TCP-IP.md",
       "color": "_94mZnvScd2AsnNoT5AP3"
     },
     {
-      "path": "THM/Windows PowerShell/Room.md",
-      "color": "_94mZnvScd2AsnNoT5AP3"
+      "path": "THM/ROOMS/Windows PowerShell/Room.md",
+      "color": "8khsXX66tThaeaWZo66vx"
     },
     {
       "path": "Z-images/modelo osi.png",
@@ -86,10 +92,6 @@
     {
       "path": "Z-images",
       "color": "kh6o7MDMvRWrwrGLe8P7k"
-    },
-    {
-      "path": "THM/Linux Shells",
-      "color": "emkK26Q8CL5VRt7gYB-UQ"
     },
     {
       "path": "REDES/Redes de Computadores em Segurança da Informação/Cabo de Rede.md",
@@ -105,30 +107,74 @@
     },
     {
       "path": "BANCO DE DADOS",
+      "color": "aRBQZtgHlcILhQ8HoLE99"
+    },
+    {
+      "path": "THM/Cyber Security 101/Networking/Networking Concepts.md",
       "color": "_94mZnvScd2AsnNoT5AP3"
     },
     {
-      "path": "THM TEORY",
-      "color": "emkK26Q8CL5VRt7gYB-UQ"
-    },
-    {
-      "path": "THM TEORY/Cyber Security 101/Networking/Networking Concepts.md",
+      "path": "THM/Cyber Security 101/Networking/Networking Core Protocols.md",
       "color": "_94mZnvScd2AsnNoT5AP3"
     },
     {
-      "path": "THM TEORY/Cyber Security 101/Networking/Networking Core Protocols.md",
+      "path": "Cheet Sheet.md",
+      "color": "4rZV4ipmvDyFP185JizOt"
+    },
+    {
+      "path": "THM/Cyber Security 101/Networking/Networking Secure Protocols.md",
       "color": "_94mZnvScd2AsnNoT5AP3"
     },
     {
-      "path": "remember me.md",
-      "color": "1qHuMVXaBJ_bmoEXp38t8"
-    },
-    {
-      "path": "THM TEORY/Cyber Security 101/Networking/Networking Secure Protocols.md",
+      "path": "THM/Cyber Security 101/Networking/WireShark - The Basics.md",
       "color": "_94mZnvScd2AsnNoT5AP3"
     },
     {
-      "path": "THM TEORY/Cyber Security 101/Networking/WireShark - The Basics.md",
+      "path": "THM",
+      "color": "ulzAXDCQi-ZwqBzqj8tzc"
+    },
+    {
+      "path": "REDES",
+      "color": "aRBQZtgHlcILhQ8HoLE99"
+    },
+    {
+      "path": "BANCO DE DADOS/Banco de dados.md",
+      "color": "_94mZnvScd2AsnNoT5AP3"
+    },
+    {
+      "path": "THM/Cyber Security 101",
+      "color": "ieZFt7UPglMweRRSVsff7"
+    },
+    {
+      "path": "THM/Cyber Security 101/Networking",
+      "color": "JeDLFyRzD_iaBTZDSu157"
+    },
+    {
+      "path": "THM/ROOMS",
+      "color": "8khsXX66tThaeaWZo66vx"
+    },
+    {
+      "path": "THM/ROOMS/Linux Shells",
+      "color": "YcL4uhOSWb-7FWopySgsD"
+    },
+    {
+      "path": "THM/ROOMS/Windows PowerShell",
+      "color": "YcL4uhOSWb-7FWopySgsD"
+    },
+    {
+      "path": "THM/ROOMS/Linux Shells/Room.md",
+      "color": "8khsXX66tThaeaWZo66vx"
+    },
+    {
+      "path": "THM/Cyber Security 101/Networking/Tcpdumb - The Basics.md",
+      "color": "_94mZnvScd2AsnNoT5AP3"
+    },
+    {
+      "path": "REDES 2.0",
+      "color": "aRBQZtgHlcILhQ8HoLE99"
+    },
+    {
+      "path": "REDES 2.0/Introducao a Redes de Computadores.md",
       "color": "_94mZnvScd2AsnNoT5AP3"
     }
   ]

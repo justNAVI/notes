@@ -9,11 +9,11 @@
 ## Specify the Network Interface
 
 - The first thing to decide is which network interface to listen to using `-i INTERFACE` 
-- You can choose to listem on all available intrtfaces using `-i any`
+- You can choose to listem on all available interfaces using `-i any`
 
 ## Save the Captured Packets
 
-- You can save afile with `-w FILE`
+- You can save a file with `-w FILE`
 - The file extension is most commonly set to `.pcap`
 
 ## Read Captured Packets from a File
@@ -32,8 +32,8 @@
 
 ## Produce Verbose Output
 
-- If you want yo print more details about the packets, you can use `-v` 
-- Thw addition ov `-v` will print "The time to live, identification, total lenght and options in an IP packet"
+- If you want to print more details about the packets, you can use `-v` 
+- The addition of `-v` will print "The time to live, identification, total lenght and options in an IP packet"
 
 ## Cheat Sheet
 
@@ -90,3 +90,27 @@
 | `tcpdump src port PORT_NUMBER`               |     | Filter packets by the specified source port number       |
 | `tcpdump dst port PORT_NUMBER`               |     | Filters packets by the specified destination port number |
 | `tcpdump PROTOCOL`                           |     | Filters packets by protocol                              |
+
+# Advanced Filtering
+
+## Header Bytes
+
+- Filter packets based on the contents of a header byte
+- Tcpdump allows you to refer to the contents of any byte in the header using the syntax `proto[expr:size]`
+	- `proto` refers to the protocol (Example: arp, ether, icmp, ip, ip6, tcp and udp)
+	- `expr` indicates the byte offset, where `0` refers to the first byte
+	- `size` indicates the number of bytes that interest us: one, two or four (One is by default)
+
+
+# Displaying Packets
+
+- Tcpdump is a rich program with many options to customize how the packets are printed and displayed
+
+
+| Output |     | Explanation                                   |     |                                                                                                                |                              |
+| ------ | --- | --------------------------------------------- | --- | -------------------------------------------------------------------------------------------------------------- | ---------------------------- |
+| `-q`   |     | Quick output: print brief packet information  |     | Shows the timestamp, along with the source and destination IP addresses and source and destination port number | Brief Packet Information     |
+| `-e`   |     | Print the link-level header                   |     | Include the MAC addresses, also help you track the source of any unusual packets on your network               | Displaying Link-Level Header |
+| `-A`   |     | Show packet data in ASCII                     |     | Display all bytes mapped to English letters, numbers and symbols                                               | Displaying Packets as ASCII  |
+| `-xx`  |     | Show packet data in hex                       |     |                                                                                                                |                              |
+| `-X`   |     | Show packet headers and data in hex and ASCII |     |                                                                                                                |                              |

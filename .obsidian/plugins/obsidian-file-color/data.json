@@ -110,11 +110,11 @@
       "color": "aRBQZtgHlcILhQ8HoLE99"
     },
     {
-      "path": "THM/Cyber Security 101/Networking/Networking Concepts.md",
+      "path": "THM/Cyber Security 101/Networking/1 - Networking Concepts.md",
       "color": "_94mZnvScd2AsnNoT5AP3"
     },
     {
-      "path": "THM/Cyber Security 101/Networking/Networking Core Protocols.md",
+      "path": "THM/Cyber Security 101/Networking/3 - Networking Core Protocols.md",
       "color": "_94mZnvScd2AsnNoT5AP3"
     },
     {
@@ -122,11 +122,11 @@
       "color": "4rZV4ipmvDyFP185JizOt"
     },
     {
-      "path": "THM/Cyber Security 101/Networking/Networking Secure Protocols.md",
+      "path": "THM/Cyber Security 101/Networking/4 - Networking Secure Protocols.md",
       "color": "_94mZnvScd2AsnNoT5AP3"
     },
     {
-      "path": "THM/Cyber Security 101/Networking/WireShark - The Basics.md",
+      "path": "THM/Cyber Security 101/Networking/5 - WireShark - The Basics.md",
       "color": "_94mZnvScd2AsnNoT5AP3"
     },
     {
@@ -166,7 +166,7 @@
       "color": "8khsXX66tThaeaWZo66vx"
     },
     {
-      "path": "THM/Cyber Security 101/Networking/Tcpdumb - The Basics.md",
+      "path": "THM/Cyber Security 101/Networking/6 - Tcpdumb - The Basics.md",
       "color": "_94mZnvScd2AsnNoT5AP3"
     },
     {
@@ -178,7 +178,15 @@
       "color": "_94mZnvScd2AsnNoT5AP3"
     },
     {
-      "path": "THM/Cyber Security 101/Networking/Nmap - The Basics.md",
+      "path": "THM/Cyber Security 101/Networking/7 - Nmap - The Basics.md",
+      "color": "_94mZnvScd2AsnNoT5AP3"
+    },
+    {
+      "path": "THM/Cyber Security 101/Cryptography",
+      "color": "JeDLFyRzD_iaBTZDSu157"
+    },
+    {
+      "path": "THM/Cyber Security 101/Cryptography/1 - Cryptography Basics.md",
       "color": "_94mZnvScd2AsnNoT5AP3"
     }
   ]

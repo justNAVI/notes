@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "THM/Cyber Security 101/Networking/Nmap - The Basics.md",
+                "file": "THM/Cyber Security 101/Cryptography/1 - Cryptography Basics.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Nmap - The Basics"
+              "title": "1 - Cryptography Basics"
             }
           }
         ]
@@ -201,23 +201,25 @@
   },
   "active": "16bcf4a8e9ccd628",
   "lastOpenFiles": [
-    "THM/Cyber Security 101/Networking/Tcpdumb - The Basics.md",
-    "THM/Cyber Security 101/Networking/Nmap - The Basics.md",
-    "Cheet Sheet.md",
+    "THM/Cyber Security 101/Networking/7 - Nmap - The Basics.md",
+    "THM/Cyber Security 101/Cryptography/1 - Cryptography Basics.md",
+    "THM/Cyber Security 101/Cryptography",
+    "THM/Cyber Security 101/Networking/6 - Tcpdumb - The Basics.md",
+    "THM/Cyber Security 101/Networking/5 - WireShark - The Basics.md",
+    "THM/Cyber Security 101/Networking/3 - Networking Core Protocols.md",
+    "THM/Cyber Security 101/Networking/1 - Networking Concepts.md",
+    "THM/Cyber Security 101/Networking/4 - Networking Secure Protocols.md",
     "REDES 2.0/Introducao a Redes de Computadores.md",
+    "Cheet Sheet.md",
     "REDES/Redes de Computadores em Segurança da Informação/Sub-Redes E Mascaras.md",
     "REDES/Redes de Computadores em Segurança da Informação/Modelo OSI e TCP-IP.md",
     "REDES/Redes de Computadores em Segurança da Informação/DHCP.md",
     "REDES/Redes de Computadores em Segurança da Informação/Cabo de Rede.md",
-    "THM/Cyber Security 101/Networking/Networking Core Protocols.md",
-    "THM/Cyber Security 101/Networking/Networking Concepts.md",
-    "THM/Cyber Security 101/Networking/WireShark - The Basics.md",
     "BANCO DE DADOS/Banco de dados.md",
     "REDES 2.0",
     "THM/ROOMS/Windows PowerShell/Room.md",
     "THM/ROOMS/Linux Shells/Room.md",
     "THM/ROOMS",
-    "THM/Cyber Security 101/Networking/Networking Secure Protocols.md",
     "CISCO/Gerenciamento de Ameaças Cibernéticas.md",
     "Z-images/Pasted image 20261004125846.png",
     "Pasted image 20260930210733.png",
@@ -237,7 +239,6 @@
     "BANCO DE DADOS",
     "CISCO",
     "THM/ROOMS/Linux Shells",
-    "Z-images",
     "Drawing 2026-05-02 16.53.17.excalidraw.md",
     "Bem-vindo.md",
     "REDES/Redes de Computadores em Segurança da Informação.md"

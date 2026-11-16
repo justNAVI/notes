@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "THM/Cyber Security 101/Cryptography/1 - Cryptography Basics.md",
+                "file": "REDES 2.0/Introducao a Redes de Computadores.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1 - Cryptography Basics"
+              "title": "Introducao a Redes de Computadores"
             }
           }
         ]
@@ -201,8 +201,11 @@
   },
   "active": "16bcf4a8e9ccd628",
   "lastOpenFiles": [
-    "THM/Cyber Security 101/Networking/7 - Nmap - The Basics.md",
+    "Z-images/Pasted image 20261116104525.png",
     "THM/Cyber Security 101/Cryptography/1 - Cryptography Basics.md",
+    "Z-images/Pasted image 20261116092928.png",
+    "Z-images/Pasted image 20261116092753.png",
+    "THM/Cyber Security 101/Networking/7 - Nmap - The Basics.md",
     "THM/Cyber Security 101/Cryptography",
     "THM/Cyber Security 101/Networking/6 - Tcpdumb - The Basics.md",
     "THM/Cyber Security 101/Networking/5 - WireShark - The Basics.md",
@@ -229,8 +232,6 @@
     "Z-images/Pasted image 20260930201631.png",
     "Z-images/Pasted image 20260930201518.png",
     "Z-images/Pasted image 20260930201406.png",
-    "Z-images/Pasted image 20260930201306.png",
-    "Z-images/Pasted image 20260930201158.png",
     "THM/Cyber Security 101/Networking",
     "THM/Cyber Security 101",
     "THM TEORY",

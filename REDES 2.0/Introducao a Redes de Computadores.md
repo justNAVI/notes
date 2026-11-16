@@ -25,5 +25,26 @@
 
 # Rede Externa VS Rede Interna
 
-- 
+![[Pasted image 20261116104525.png]]
+
+- **192.168.0.1** - Gateway, IP da rede interna do roteador
+- **216.58.192.5** - O IP da rede externa do roteador
+
+## Como funciona
+
+O papel do IP interno e se comunicar internamente entre os aparelhos do local
+
+O papel do IP externo e se comunicar com a internet, se comunicar com outros equipamentos
+
+## Exemplo da imagem
+
+- A comunicao interna da rede e feita com o IP 192.168.0.1
+- O smartphone quer fazer uma requisicao:
+	- Ele envia informacao do 192.168.0.109 para o gateway 192.168.0.1 e assim ele envia para a rede externa 216.58.192.5 e assim faz a comunicao com a internet
+
+
+
+# DHCP
+
+**Dynamic Host Configuration Protocol**
 
